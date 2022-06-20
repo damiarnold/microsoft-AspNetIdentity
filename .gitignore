@@ -1,3 +1,6 @@
 [Oo]bj/
 [Bb]in/
 packages/
+.vs/
+.vscode/
+.nuget/
